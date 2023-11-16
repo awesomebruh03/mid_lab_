@@ -70,10 +70,5 @@ When prompted, the user can choose the desired sorting algorithm by entering the
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to customize the README to include additional information or sections as needed. Make sure to update the installation instructions and provide any relevant details about the project.
